@@ -1,0 +1,3 @@
+# VideoGameSalesAnalysis
+
+In this notebook, we take the video games dataset and perform exploratory data analysis using the pandas library of Python. The EDA is a means to learn more about the video game sales over the years, the rise and fall of key markets, and changes in genre preferences. We are also going to plot some of the data to get a better picture of what the data is saying using Python's Seaborn library. Ultimately, we seek to draw some fundamental conclusions about the data which can enable us with a sufficient understanding of the data to dig deeper with the help of more complex methods of analysis.
